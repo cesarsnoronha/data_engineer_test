@@ -1,0 +1,1003 @@
+,id,candidate_name,cpf,nine_cpf_digit,address_initials_state,state_group,same_state
+0,392,Romain_Molnar,52007159708,7,AC,"ES, RJ",False
+1,952,Kittie_McKane,30208070699,6,AL,MG,False
+2,132,Lelia_Quibell,46880770843,8,AL,SP,False
+3,981,Shadow_Males,36298903771,7,AL,"ES, RJ",False
+4,225,Jacki_Blois,18797119903,9,AL,"PR, SC",False
+5,261,Merralee_Parsonage,87461040979,9,AL,"PR, SC",False
+6,351,Clarice_Niezen,59406365359,3,AL,"CE, MA, PI",False
+7,967,Bjorn_Arrell,87533921674,6,AM,MG,False
+8,592,Leonid_Lishmund,96692784654,6,AM,MG,False
+9,498,Jordan_Harbisher,65808446040,0,AM,RS,False
+10,269,Galen_McCorkindale,65886988017,0,AM,RS,False
+11,471,Kitti_Sorbie,3056102103,0,AM,RS,False
+12,815,Cly_Akram,17799507055,0,AM,RS,False
+13,494,Kurt_Stallworthy,35695264880,8,AM,SP,False
+14,998,Cindie_Riddlesden,59293553805,8,AM,SP,False
+15,429,Arri_Sellwood,25700682508,5,AM,"BA, SE",False
+16,874,Cori_Byles,82539588972,9,AM,"PR, SC",False
+17,939,Portia_Ossulton,53959322917,9,AM,"PR, SC",False
+18,626,Andrea_Bosley,78658088952,9,AM,"PR, SC",False
+19,503,Consuelo_Haire,36924153380,3,AM,"CE, MA, PI",False
+20,975,Rianon_Pedroni,20558468330,3,AM,"CE, MA, PI",False
+21,802,Olivie_Bewsey,3014798444,4,AM,"AL, PB, PE, RN",False
+22,401,Natividad_Vyvyan,79103487113,1,AM,"DF, GO, MS, MT, TO",False
+23,363,Evelyn_Ellerby,89101924109,1,AM,"DF, GO, MS, MT, TO",False
+24,806,Lida_Ribey,47261201154,1,AM,"DF, GO, MS, MT, TO",False
+25,572,Trix_Sanches,19032267167,1,AM,"DF, GO, MS, MT, TO",False
+26,157,Jenny_Patching,40791391108,1,AM,"DF, GO, MS, MT, TO",False
+27,843,Kass_Poulden,12881624219,2,TO,"AC, AM, AP, PA, RO, RR",False
+28,388,Maynord_Takos,41722410426,4,TO,"AL, PB, PE, RN",False
+29,128,Tremain_Bortolotti,93593469260,2,SP,"AC, AM, AP, PA, RO, RR",False
+30,979,Shelly_Storrock,37628097200,2,SP,"AC, AM, AP, PA, RO, RR",False
+31,809,Almeta_Ranyard,53537912668,6,BA,MG,False
+32,472,Deanne_Blackstone,62672491666,6,BA,MG,False
+33,562,Dehlia_Leaburn,54539788647,6,BA,MG,False
+34,232,Cirstoforo_Phoenix,26038551662,6,BA,MG,False
+35,226,Ketti_Quernel,32258845610,6,BA,MG,False
+36,440,Delila_Portman,47320302624,6,BA,MG,False
+37,256,Tomaso_Andreopolos,44820806670,6,BA,MG,False
+38,245,Blanche_Hannam,55702966031,0,BA,RS,False
+39,495,Jacynth_Challicum,29376367057,0,BA,RS,False
+40,863,Leonhard_Jays,26977120037,0,BA,RS,False
+41,741,Ashien_Aguilar,10338559019,0,BA,RS,False
+42,816,Desi_Carrigan,88184252005,0,BA,RS,False
+43,854,Clayson_Dufaire,8414929303,0,BA,RS,False
+44,246,Joleen_Klaaasen,7434713003,0,BA,RS,False
+45,528,Georgeanne_Swarbrick,81867238039,0,BA,RS,False
+46,510,Shepherd_Drews,60275121054,0,BA,RS,False
+47,365,Wendye_Terron,33103988036,0,BA,RS,False
+48,20,Jeremias_Van Arsdalen,86052151862,8,BA,SP,False
+49,670,Selie_Donat,89269496805,8,BA,SP,False
+50,353,Toiboid_Niblett,80820784800,8,BA,SP,False
+51,947,Nicolas_Merriman,68853843802,8,BA,SP,False
+52,184,Crista_MacGarvey,50516501801,8,BA,SP,False
+53,317,Karlen_Byas,56649498807,8,BA,SP,False
+54,98,Dory_Jepensen,60761557873,8,BA,SP,False
+55,615,Gabriel_Gribbin,1662469489,8,BA,SP,False
+56,851,Pearce_Gookey,59707103850,8,BA,SP,False
+57,774,Luciana_Rome,12583560239,2,SP,"AC, AM, AP, PA, RO, RR",False
+58,867,Cosimo_Gimber,19935576280,2,SP,"AC, AM, AP, PA, RO, RR",False
+59,191,Daphne_Lampitt,46328736240,2,SP,"AC, AM, AP, PA, RO, RR",False
+60,450,Trstram_Tedahl,12327560241,2,SP,"AC, AM, AP, PA, RO, RR",False
+61,215,Barbee_Jaulme,10011185295,2,SP,"AC, AM, AP, PA, RO, RR",False
+62,657,Brynn_Kestin,25060681718,7,BA,"ES, RJ",False
+63,72,Cletis_Annett,59501247740,7,BA,"ES, RJ",False
+64,141,Benedick_Flode,48643035769,7,BA,"ES, RJ",False
+65,307,Annabelle_Terran,55153173780,7,BA,"ES, RJ",False
+66,177,Curcio_Lampaert,73164445768,7,BA,"ES, RJ",False
+67,531,Myron_Giffen,61118082737,7,BA,"ES, RJ",False
+68,724,Ema_Figura,21317844734,7,BA,"ES, RJ",False
+69,811,Genia_Geistbeck,33744318958,9,BA,"PR, SC",False
+70,281,Lil_Hammersley,69738680964,9,BA,"PR, SC",False
+71,928,Jard_Castagnasso,42661904921,9,BA,"PR, SC",False
+72,658,Delcina_MacConnal,10280208995,9,BA,"PR, SC",False
+73,149,Haleigh_Reisenstein,40430606966,9,BA,"PR, SC",False
+74,833,Thoma_Chiverstone,99183220984,9,BA,"PR, SC",False
+75,2,Josefina_Swalowe,72137209969,9,BA,"PR, SC",False
+76,937,Ingar_Fallowes,7623649396,9,BA,"PR, SC",False
+77,338,Collete_Spiaggia,23510275900,9,BA,"PR, SC",False
+78,506,Malory_Dunbleton,9451042199,9,BA,"PR, SC",False
+79,264,Hort_Lorenc,56773284996,9,BA,"PR, SC",False
+80,647,Merridie_Barnhart,80590728385,3,BA,"CE, MA, PI",False
+81,286,Kessiah_Mileham,9756778539,3,BA,"CE, MA, PI",False
+82,425,Sidonia_Meekings,63599545324,3,BA,"CE, MA, PI",False
+83,604,Perren_Calrow,39469245300,3,BA,"CE, MA, PI",False
+84,955,Esteban_Goodlatt,47577300470,4,BA,"AL, PB, PE, RN",False
+85,164,Tore_Mulvaney,35190761444,4,BA,"AL, PB, PE, RN",False
+86,41,Phineas_Fawckner,64072661490,4,BA,"AL, PB, PE, RN",False
+87,424,Ettore_Greenhalgh,23203071410,4,BA,"AL, PB, PE, RN",False
+88,881,Winfred_Chinge de Hals,35427961402,4,BA,"AL, PB, PE, RN",False
+89,156,Jorey_Spinke,33534151496,4,BA,"AL, PB, PE, RN",False
+90,334,Saundra_Barnfield,64122924111,1,BA,"DF, GO, MS, MT, TO",False
+91,761,Dolores_Stiegar,67715768170,1,BA,"DF, GO, MS, MT, TO",False
+92,821,Rheta_Dovermann,39373905104,1,BA,"DF, GO, MS, MT, TO",False
+93,69,Durante_Usher,15872118155,1,BA,"DF, GO, MS, MT, TO",False
+94,318,Maddalena_Lazer,87582331133,1,BA,"DF, GO, MS, MT, TO",False
+95,134,Mattie_Dayes,53137503213,2,BA,"AC, AM, AP, PA, RO, RR",False
+96,476,Nita_Spenceley,96346689258,2,BA,"AC, AM, AP, PA, RO, RR",False
+97,557,Ricca_Liddel,49096636228,2,BA,"AC, AM, AP, PA, RO, RR",False
+98,162,Ravid_Hemstead,85343181236,2,BA,"AC, AM, AP, PA, RO, RR",False
+99,386,Lyndel_Weadick,14546981287,2,BA,"AC, AM, AP, PA, RO, RR",False
+100,924,Issiah_Crackett,24846594238,2,BA,"AC, AM, AP, PA, RO, RR",False
+101,987,Kimmy_Gronous,36835731206,2,BA,"AC, AM, AP, PA, RO, RR",False
+102,462,Alisun_Finney,69844251230,2,BA,"AC, AM, AP, PA, RO, RR",False
+103,312,Stanislaus_Wick,84768126200,2,BA,"AC, AM, AP, PA, RO, RR",False
+104,52,Milzie_McKevin,69699551259,2,BA,"AC, AM, AP, PA, RO, RR",False
+105,435,Natal_Puddin,26810751220,2,BA,"AC, AM, AP, PA, RO, RR",False
+106,732,Cecil_Tonna,44370710693,6,CE,MG,False
+107,540,Nita_Whiteley,17261097047,0,CE,RS,False
+108,644,Dacey_Pryce,8632945700,0,CE,RS,False
+109,116,Rip_Lamshead,1253935203,0,CE,RS,False
+110,922,Hoebart_Severy,57140648018,0,CE,RS,False
+111,30,Tomkin_Tosney,18201094883,8,CE,SP,False
+112,432,Kevina_Flatman,40944235832,8,CE,SP,False
+113,767,Jessamyn_Densell,74243080844,8,CE,SP,False
+114,613,Ethe_Rangeley,54847775856,8,CE,SP,False
+115,423,Austen_Rusbridge,7275764458,5,CE,"BA, SE",False
+116,327,George_Peret,62252673524,5,CE,"BA, SE",False
+117,535,Conroy_Dehm,31587316579,5,CE,"BA, SE",False
+118,251,Barbra_Uc,19413603510,5,CE,"BA, SE",False
+119,231,Cinderella_Leavesley,75732370730,7,CE,"ES, RJ",False
+120,976,Shae_Pickton,56930965219,2,SP,"AC, AM, AP, PA, RO, RR",False
+121,459,Reena_Ransbury,48270924270,2,SP,"AC, AM, AP, PA, RO, RR",False
+122,852,Gothart_Haburne,48667564460,4,CE,"AL, PB, PE, RN",False
+123,378,Nathalie_Sive,14677068410,4,CE,"AL, PB, PE, RN",False
+124,511,Sibyl_Howland,47345422445,4,CE,"AL, PB, PE, RN",False
+125,757,Shannah_Conti,51092306412,4,CE,"AL, PB, PE, RN",False
+126,203,Brittni_Lowdham,55034722410,4,CE,"AL, PB, PE, RN",False
+127,523,Jeremias_Baumber,77301221118,1,CE,"DF, GO, MS, MT, TO",False
+128,146,Homerus_Dwerryhouse,75199056247,2,CE,"AC, AM, AP, PA, RO, RR",False
+129,337,Jacklin_Whissell,71041703678,6,ES,MG,False
+130,888,Reinwald_Mereweather,62575186609,6,ES,MG,False
+131,631,Bunni_Dandie,78897849024,0,ES,RS,False
+132,482,Katee_Wagner,88715889084,0,ES,RS,False
+133,603,Martin_MacKnockiter,5265063188,8,ES,SP,False
+134,956,Rebeka_Rainon,91690809841,8,ES,SP,False
+135,934,Felicio_Caramuscia,44647469859,8,ES,SP,False
+136,304,Garvin_Phillipp,15148761830,8,ES,SP,False
+137,508,Vinni_Delve,25407219581,5,ES,"BA, SE",False
+138,252,Fremont_Gannan,34894574209,2,SP,"AC, AM, AP, PA, RO, RR",False
+139,845,Vassili_Johncey,8292282920,2,SP,"AC, AM, AP, PA, RO, RR",False
+140,620,Fons_Garrould,87132453254,2,SP,"AC, AM, AP, PA, RO, RR",False
+141,176,Kala_Swancock,17412850970,9,ES,"PR, SC",False
+142,887,Bella_Rowledge,93617927920,9,ES,"PR, SC",False
+143,23,Ber_Charrett,31593254903,9,ES,"PR, SC",False
+144,342,Gerik_Mattessen,22559149990,9,ES,"PR, SC",False
+145,993,Codi_Pettiward,40867815906,9,ES,"PR, SC",False
+146,708,Xaviera_Samways,26989939362,3,ES,"CE, MA, PI",False
+147,197,Hi_Murrow,36281850335,3,ES,"CE, MA, PI",False
+148,883,Carmita_Weafer,92285788312,3,ES,"CE, MA, PI",False
+149,160,Cindi_Brownsea,58992582412,4,ES,"AL, PB, PE, RN",False
+150,262,Olia_Roose,24631026162,1,ES,"DF, GO, MS, MT, TO",False
+151,95,Ara_Valance,22165356130,1,ES,"DF, GO, MS, MT, TO",False
+152,391,Dulcine_Keiling,74492604685,6,GO,MG,False
+153,321,Danell_Mudie,22782919636,6,GO,MG,False
+154,266,Weber_Priest,64672137694,6,GO,MG,False
+155,893,Rosalynd_Allgood,1340747260,6,GO,MG,False
+156,266,Weber_Priest,64672137694,6,GO,MG,False
+157,65,Bendite_Tofano,92567371087,0,GO,RS,False
+158,170,Douglass_Aleso,44732263011,0,GO,RS,False
+159,73,Craggie_Burgess,35970197068,0,GO,RS,False
+160,898,Annemarie_O'Corhane,22037334893,8,GO,SP,False
+161,533,Vinnie_Stovell,89888728865,8,GO,SP,False
+162,738,Ricca_Holtum,15654341880,8,GO,SP,False
+163,346,Roley_Plumbley,87856920505,5,GO,"BA, SE",False
+164,80,Elihu_Benneton,55294103591,5,GO,"BA, SE",False
+165,951,Nelly_Boaler,32517526508,5,GO,"BA, SE",False
+166,574,Rawley_Clapshaw,13312550580,5,GO,"BA, SE",False
+167,61,Perice_Suart,19316971756,7,GO,"ES, RJ",False
+168,676,Jeremiah_Fenelon,93431137733,7,GO,"ES, RJ",False
+169,84,Melita_Taylor,67106168947,9,GO,"PR, SC",False
+170,237,Sari_Fever,72278268996,9,GO,"PR, SC",False
+171,444,Joelly_Tessington,35510425946,9,GO,"PR, SC",False
+172,154,Reidar_Billows,74776453959,9,GO,"PR, SC",False
+173,145,Cicely_Volks,45648765380,3,GO,"CE, MA, PI",False
+174,201,Koressa_Suermeiers,7183981142,4,GO,"AL, PB, PE, RN",False
+175,693,Terese_Srawley,21006563415,4,GO,"AL, PB, PE, RN",False
+176,102,Letta_Ilem,89267143492,4,GO,"AL, PB, PE, RN",False
+177,973,Donetta_Knowling,19120922477,4,GO,"AL, PB, PE, RN",False
+178,437,Gerhardine_Mathwen,44613398231,2,SP,"AC, AM, AP, PA, RO, RR",False
+179,953,Madeleine_Yakebowitch,74128654205,2,SP,"AC, AM, AP, PA, RO, RR",False
+180,408,Jehu_Formie,27803944205,2,SP,"AC, AM, AP, PA, RO, RR",False
+181,856,Dallon_Davidov,21691815209,2,SP,"AC, AM, AP, PA, RO, RR",False
+182,889,Teddy_Maunders,30714764264,2,SP,"AC, AM, AP, PA, RO, RR",False
+183,430,Edmon_Smellie,16838684209,2,GO,"AC, AM, AP, PA, RO, RR",False
+184,652,Ker_Hastin,56069790634,6,MA,MG,False
+185,433,Kean_Kirby,51956031030,0,MA,RS,False
+186,361,Marga_Limeburner,64238442830,8,MA,SP,False
+187,214,Dorey_Saffell,66210197850,8,MA,SP,False
+188,524,Solomon_Vida,93660340553,5,MA,"BA, SE",False
+189,125,Adolpho_Dowber,5938061156,5,MA,"BA, SE",False
+190,578,Warren_Paynes,24534143729,7,MA,"ES, RJ",False
+191,598,Verla_Rainard,53432559909,9,MA,"PR, SC",False
+192,195,Linnie_Grayson,80593350901,9,MA,"PR, SC",False
+193,422,Ely_Henstridge,30851298982,9,MA,"PR, SC",False
+194,671,Sammie_Conor,12679242920,9,MA,"PR, SC",False
+195,442,Cindi_Friatt,42471190286,2,SP,"AC, AM, AP, PA, RO, RR",False
+196,135,Larine_Betjes,30653011210,2,SP,"AC, AM, AP, PA, RO, RR",False
+197,662,Arleen_Levermore,77736354200,2,SP,"AC, AM, AP, PA, RO, RR",False
+198,865,Robbie_Madgett,12289695408,4,MA,"AL, PB, PE, RN",False
+199,705,Jakie_Rosita,56559812464,4,MA,"AL, PB, PE, RN",False
+200,358,Basile_Skellorne,90457261498,4,MA,"AL, PB, PE, RN",False
+201,600,Donovan_McKune,81098716400,4,MA,"AL, PB, PE, RN",False
+202,768,Emlyn_Baudino,13310187497,4,MA,"AL, PB, PE, RN",False
+203,576,Mohammed_Banasiak,48987277437,4,MA,"AL, PB, PE, RN",False
+204,569,Melicent_Curme,17032946100,1,MA,"DF, GO, MS, MT, TO",False
+205,113,Sloane_Esland,22115957156,1,MA,"DF, GO, MS, MT, TO",False
+206,570,Caz_Smowton,36831487130,1,MA,"DF, GO, MS, MT, TO",False
+207,636,Rossy_McCarlich,35701180107,1,MA,"DF, GO, MS, MT, TO",False
+208,940,Torey_Brightwell,82299164111,1,MA,"DF, GO, MS, MT, TO",False
+209,645,Jana_Gilbee,65282825104,1,MA,"DF, GO, MS, MT, TO",False
+210,573,Theda_Isaksen,54165888109,1,MA,"DF, GO, MS, MT, TO",False
+211,83,Shirleen_Jarnell,37799478110,1,MA,"DF, GO, MS, MT, TO",False
+212,638,Caldwell_Jessep,4565864827,2,SP,"AC, AM, AP, PA, RO, RR",False
+213,352,Shalom_Bucktrout,67473884298,2,SP,"AC, AM, AP, PA, RO, RR",False
+214,14,Jocko_Chazier,35052852266,2,SP,"AC, AM, AP, PA, RO, RR",False
+215,979,Shelly_Storrock,37628097200,2,SP,"AC, AM, AP, PA, RO, RR",False
+216,786,Catlin_Newe,22694475140,1,SP,"DF, GO, MS, MT, TO",False
+217,44,Roberto_Marklund,24852371156,1,SP,"DF, GO, MS, MT, TO",False
+218,97,Putnem_Thurling,56396250152,1,SP,"DF, GO, MS, MT, TO",False
+219,284,Bailey_Baiss,24186772142,1,SP,"DF, GO, MS, MT, TO",False
+220,63,Caz_Heskin,23087263184,1,SP,"DF, GO, MS, MT, TO",False
+221,607,Damian_McVittie,30565771108,1,SP,"DF, GO, MS, MT, TO",False
+222,478,Marthena_Ollerhead,53751471146,1,SP,"DF, GO, MS, MT, TO",False
+223,587,Martino_Attenbrow,11222548143,1,SP,"DF, GO, MS, MT, TO",False
+224,566,Eloise_Corley,36330715122,1,SP,"DF, GO, MS, MT, TO",False
+225,866,Genvieve_Tudball,61310457042,0,MG,RS,False
+226,629,Goldia_Harridge,96225819002,0,MG,RS,False
+227,984,Dwight_Heigl,36765606041,0,MG,RS,False
+228,542,Eadie_Kirk,69434232074,0,MG,RS,False
+229,7,Del_Flea,97135490070,0,MG,RS,False
+230,174,Neil_Merchant,86293968069,0,MG,RS,False
+231,765,Gaelan_MacLaig,45886411070,0,MG,RS,False
+232,804,Rosmunda_Lineker,7972953309,0,MG,RS,False
+233,229,Jozef_Goldstein,13935693079,0,MG,RS,False
+234,5,Bellanca_Laycock,72461816018,0,MG,RS,False
+235,679,Tilly_Gouldie,76851723050,0,MG,RS,False
+236,326,Eldon_Ronci,7792447707,0,MG,RS,False
+237,918,Dallas_Minguet,83978487039,0,MG,RS,False
+238,323,Jeth_Simchenko,7476771907,0,MG,RS,False
+239,823,Ibby_Mayell,55291118075,0,MG,RS,False
+240,588,Craig_Mc Queen,51602801037,0,MG,RS,False
+241,829,Kipper_Higgoe,62354300000,0,MG,RS,False
+242,420,Parsifal_Cassy,89606855856,8,MG,SP,False
+243,628,Marnia_Denslow,71546702822,8,MG,SP,False
+244,92,Taber_Brinsford,25418149849,8,MG,SP,False
+245,760,Anson_Vertigan,71648819877,8,MG,SP,False
+246,6,Talyah_Brokenshaw,53607208832,8,MG,SP,False
+247,47,Masha_Neeves,29640087874,8,MG,SP,False
+248,794,Jaquelyn_Maestro,12488792870,8,MG,SP,False
+249,152,Floria_Lambal,80913449881,8,MG,SP,False
+250,589,Allegra_Rosewell,6903219889,8,MG,SP,False
+251,293,Arman_Freckleton,27971632819,8,MG,SP,False
+252,580,Patin_Stoll,9886563885,8,MG,SP,False
+253,78,Sinclare_Ruos,97820960833,8,MG,SP,False
+254,192,Lydon_Code,39517457898,8,MG,SP,False
+255,779,Simone_Cloney,14264680832,8,MG,SP,False
+256,737,Heinrick_Rowledge,50143251813,8,MG,SP,False
+257,750,Fredek_Paraman,5687467084,8,MG,SP,False
+258,701,Cindi_Tyt,91730540546,5,MG,"BA, SE",False
+259,608,Romeo_Thompson,57077875504,5,MG,"BA, SE",False
+260,137,Coop_Segar,84336804559,5,MG,"BA, SE",False
+261,948,Elvina_Cathersides,60357223500,5,MG,"BA, SE",False
+262,37,Melantha_Hansed,82314958519,5,MG,"BA, SE",False
+263,148,Barclay_Klebes,15478536547,5,MG,"BA, SE",False
+264,515,Bradan_Tarquinio,35230637528,5,MG,"BA, SE",False
+265,460,Kiley_Brocket,9790421354,5,MG,"BA, SE",False
+266,682,Ertha_Kadar,59650931520,5,MG,"BA, SE",False
+267,507,Lena_Fairlaw,56435095558,5,MG,"BA, SE",False
+268,961,Prentice_Murtagh,61015418511,5,MG,"BA, SE",False
+269,349,Asa_Hanes,22633820700,7,MG,"ES, RJ",False
+270,292,Luigi_Duke,49624693714,7,MG,"ES, RJ",False
+271,509,Pierrette_Boraston,3555799878,7,MG,"ES, RJ",False
+272,727,Margaretha_McBeith,20395188784,7,MG,"ES, RJ",False
+273,544,Jeramie_Hurdwell,95933680788,7,MG,"ES, RJ",False
+274,799,Staford_Slingsby,99211549744,7,MG,"ES, RJ",False
+275,966,Callida_Warlock,45699719709,7,MG,"ES, RJ",False
+276,497,Ramsey_Hugues,23234879737,7,MG,"ES, RJ",False
+277,650,Gibb_Kestell,71691973750,7,MG,"ES, RJ",False
+278,497,Ramsey_Hugues,23234879737,7,MG,"ES, RJ",False
+279,131,Mohandas_Dayly,81543374794,7,MG,"ES, RJ",False
+280,399,Kassie_Linne,96808402710,7,MG,"ES, RJ",False
+281,481,Marti_Plain,1523711175,7,MG,"ES, RJ",False
+282,189,Werner_MacWhan,27071738785,7,MG,"ES, RJ",False
+283,550,Jesse_McFaul,18038126726,7,MG,"ES, RJ",False
+284,958,Claretta_Genike,7625788075,7,MG,"ES, RJ",False
+285,38,Camilla_Hickford,69660586701,7,MG,"ES, RJ",False
+286,560,Fern_Reeds,42696679908,9,MG,"PR, SC",False
+287,204,Mirabella_O'Daly,94559582955,9,MG,"PR, SC",False
+288,502,Tory_Hallgath,98110053971,9,MG,"PR, SC",False
+289,949,Raimundo_Wythill,71306981956,9,MG,"PR, SC",False
+290,288,Anson_Loxton,20896849929,9,MG,"PR, SC",False
+291,916,Dusty_Pennazzi,62908894947,9,MG,"PR, SC",False
+292,694,Inez_Maggi,23002218960,9,MG,"PR, SC",False
+293,319,Arlena_Huggett,65896993994,9,MG,"PR, SC",False
+294,89,Quinlan_Stoneley,85605785958,9,MG,"PR, SC",False
+295,36,Law_Stallybrass,40754224961,9,MG,"PR, SC",False
+296,140,Gates_McGoon,97511920993,9,MG,"PR, SC",False
+297,621,Merwyn_Crick,44995363912,9,MG,"PR, SC",False
+298,448,Aloysia_Josefsen,81873396910,9,MG,"PR, SC",False
+299,384,Bernadina_Stanistrete,38151808993,9,MG,"PR, SC",False
+300,560,Fern_Reeds,42696679908,9,MG,"PR, SC",False
+301,45,Dulcea_Kirwood,9218722832,3,MG,"CE, MA, PI",False
+302,354,Hurlee_Tebbitt,98190953362,3,MG,"CE, MA, PI",False
+303,713,Othello_Le Barr,37383796306,3,MG,"CE, MA, PI",False
+304,457,Skell_MacDonnell,53756919307,3,MG,"CE, MA, PI",False
+305,368,Boothe_Sunnex,69149856340,3,MG,"CE, MA, PI",False
+306,808,Lucais_Viccars,6397419835,3,MG,"CE, MA, PI",False
+307,55,Cristabel_Moulds,70165330341,3,MG,"CE, MA, PI",False
+308,606,Olly_Lawey,73477020383,3,MG,"CE, MA, PI",False
+309,514,Terry_Ambrosoni,78502087304,3,MG,"CE, MA, PI",False
+310,144,Reinwald_Rollitt,22740632304,3,MG,"CE, MA, PI",False
+311,583,Arlee_Drewry,22244655300,3,MG,"CE, MA, PI",False
+312,950,Georgie_Organer,61619106329,3,MG,"CE, MA, PI",False
+313,971,Archibaldo_McDonogh,8016651836,3,MG,"CE, MA, PI",False
+314,642,Debee_How,21218445386,3,MG,"CE, MA, PI",False
+315,198,Giuseppe_Maffia,43172071332,3,MG,"CE, MA, PI",False
+316,861,Angelita_Salway,68389022303,3,MG,"CE, MA, PI",False
+317,871,Ofilia_Casarili,94250806316,3,MG,"CE, MA, PI",False
+318,49,Maxie_Heckney,28007407448,4,MG,"AL, PB, PE, RN",False
+319,532,Ezekiel_Desantis,73578312487,4,MG,"AL, PB, PE, RN",False
+320,931,Arty_Sandeman,70180422405,4,MG,"AL, PB, PE, RN",False
+321,681,Weston_Coop,15641256455,4,MG,"AL, PB, PE, RN",False
+322,571,Franky_Stihl,59359194433,4,MG,"AL, PB, PE, RN",False
+323,770,Creigh_Eivers,19691044498,4,MG,"AL, PB, PE, RN",False
+324,331,Eula_Whal,77443192495,4,MG,"AL, PB, PE, RN",False
+325,552,Otha_Suller,20194814483,4,MG,"AL, PB, PE, RN",False
+326,691,Mildred_Kiely,34054802486,4,MG,"AL, PB, PE, RN",False
+327,173,Knox_Agass,70441343430,4,MG,"AL, PB, PE, RN",False
+328,418,Phyllis_Impy,87154155469,4,MG,"AL, PB, PE, RN",False
+329,752,Melodie_Chucks,96844700458,4,MG,"AL, PB, PE, RN",False
+330,664,Petrina_Reedie,55256025473,4,MG,"AL, PB, PE, RN",False
+331,988,Roxana_Packe,16939670491,4,MG,"AL, PB, PE, RN",False
+332,305,Oralle_de Courcey,21819679462,4,MG,"AL, PB, PE, RN",False
+333,465,Konstance_Pride,24971983490,4,MG,"AL, PB, PE, RN",False
+334,817,Julita_Phelan,70529076403,4,MG,"AL, PB, PE, RN",False
+335,103,Sheri_Palser,39802853402,4,MG,"AL, PB, PE, RN",False
+336,287,Rogerio_Plimmer,9803297015,1,MG,"DF, GO, MS, MT, TO",False
+337,71,Rogerio_Gamlen,85372397128,1,MG,"DF, GO, MS, MT, TO",False
+338,704,Kanya_Berford,13227464195,1,MG,"DF, GO, MS, MT, TO",False
+339,488,Caryl_Jimeno,13144192180,1,MG,"DF, GO, MS, MT, TO",False
+340,130,Launce_McNae,66336249131,1,MG,"DF, GO, MS, MT, TO",False
+341,784,Giorgia_Rilings,62866804112,1,MG,"DF, GO, MS, MT, TO",False
+342,736,Ruy_Hembry,33250336106,1,MG,"DF, GO, MS, MT, TO",False
+343,517,Alexandra_Hurst,29337198193,1,MG,"DF, GO, MS, MT, TO",False
+344,46,Brena_Biner,38706051111,1,MG,"DF, GO, MS, MT, TO",False
+345,753,Burch_Harme,70299239284,2,MG,"AC, AM, AP, PA, RO, RR",False
+346,400,Erek_Gwillyam,27288467236,2,MG,"AC, AM, AP, PA, RO, RR",False
+347,449,Judie_Grastye,67330851272,2,MG,"AC, AM, AP, PA, RO, RR",False
+348,627,Dav_Boxall,15989898207,2,MG,"AC, AM, AP, PA, RO, RR",False
+349,793,Kiley_Savil,76942369225,2,MG,"AC, AM, AP, PA, RO, RR",False
+350,814,Orton_Plinck,39502252268,2,MG,"AC, AM, AP, PA, RO, RR",False
+351,443,Ellis_Thorogood,52010508246,2,MG,"AC, AM, AP, PA, RO, RR",False
+352,899,Giacomo_Housin,89121277214,2,MG,"AC, AM, AP, PA, RO, RR",False
+353,614,Gaynor_Mattack,9693073223,2,MG,"AC, AM, AP, PA, RO, RR",False
+354,411,Penrod_Braid,46340812295,2,MG,"AC, AM, AP, PA, RO, RR",False
+355,298,Weider_Kersting,13157886240,2,MG,"AC, AM, AP, PA, RO, RR",False
+356,412,Alyosha_Norfolk,275572862,2,MG,"AC, AM, AP, PA, RO, RR",False
+357,758,Tedd_Wike,69813309202,2,MG,"AC, AM, AP, PA, RO, RR",False
+358,930,Isadore_Wyke,35398830295,2,MG,"AC, AM, AP, PA, RO, RR",False
+359,302,Saundra_Twinborne,23673811274,2,MG,"AC, AM, AP, PA, RO, RR",False
+360,805,Osborn_Enriques,45688299258,2,MG,"AC, AM, AP, PA, RO, RR",False
+361,609,Helge_Roydon,46705724234,2,MG,"AC, AM, AP, PA, RO, RR",False
+362,68,Leigh_Kohrding,23211592270,2,MG,"AC, AM, AP, PA, RO, RR",False
+363,651,Jesus_Kinnett,44761267666,6,MS,MG,False
+364,568,Killy_Boulds,26867663010,0,MS,RS,False
+365,902,Rivalee_Hyndes,57684243004,0,MS,RS,False
+366,136,Aarika_Cockshtt,60599925019,0,MS,RS,False
+367,534,Garrot_Brack,70312612524,5,MS,"BA, SE",False
+368,76,Gawen_Abethell,51203819528,5,MS,"BA, SE",False
+369,94,Thaine_Nazair,2976929173,7,MS,"ES, RJ",False
+370,468,Floria_Tschirasche,74775352989,9,MS,"PR, SC",False
+371,282,Cheri_McCosker,19451437380,3,MS,"CE, MA, PI",False
+372,166,Melli_Hentzer,8756267347,4,MS,"AL, PB, PE, RN",False
+373,241,Baryram_Braid,91234217465,4,MS,"AL, PB, PE, RN",False
+374,332,Victor_Siemantel,4600642740,4,MS,"AL, PB, PE, RN",False
+375,582,Nelle_O'Reilly,93439979490,4,MS,"AL, PB, PE, RN",False
+376,554,Aprilette_Shann,38019166424,4,MS,"AL, PB, PE, RN",False
+377,876,Stearne_Giotto,29491396129,1,SP,"DF, GO, MS, MT, TO",False
+378,272,Adriaens_Dorow,7245388369,6,MT,MG,False
+379,218,Malachi_Aslie,99050762042,0,MT,RS,False
+380,114,Reinhard_Brimelow,59548488078,0,MT,RS,False
+381,341,Berti_Weatherburn,36017651013,0,MT,RS,False
+382,90,Devlen_Laval,47204540891,8,MT,SP,False
+383,980,Horace_McOmish,30524081867,8,MT,SP,False
+384,729,Alyda_Fanthom,75123154817,8,MT,SP,False
+385,398,Dorie_Franklin,86337604520,5,MT,"BA, SE",False
+386,16,Merwin_Zuann,84333956706,7,MT,"ES, RJ",False
+387,996,Bride_Grzegorczyk,59376711980,9,MT,"PR, SC",False
+388,213,Garv_Lody,79158153268,2,MT,"AC, AM, AP, PA, RO, RR",False
+389,107,Yoko_Antonutti,89000458650,6,PA,MG,False
+390,325,Kimmy_Edscer,59349722607,6,PA,MG,False
+391,187,Ellary_Cartmill,82684283508,5,PA,"BA, SE",False
+392,67,Giusto_Corain,25903259758,7,PA,"ES, RJ",False
+393,775,Diego_Andrys,6765287590,9,PA,"PR, SC",False
+394,722,Bennett_Pawels,16754630930,9,PA,"PR, SC",False
+395,91,Ara_Carrabot,3702171797,9,PA,"PR, SC",False
+396,91,Ara_Carrabot,3702171797,9,PA,"PR, SC",False
+397,223,Abra_Chazotte,66272990464,4,PA,"AL, PB, PE, RN",False
+398,612,Nicki_Strut,148116264,4,PA,"AL, PB, PE, RN",False
+399,163,Gerrard_Lucas,564661961,1,SP,"DF, GO, MS, MT, TO",False
+400,133,Idalina_Weston,50178637610,6,PB,MG,False
+401,74,Sande_Lapthorne,63293747671,6,PB,MG,False
+402,111,Grantham_Sivewright,43320388002,0,PB,RS,False
+403,908,Vivyanne_Yurocjkin,148897908,8,PB,SP,False
+404,373,Odessa_McCartan,84537836830,8,PB,SP,False
+405,894,Kyrstin_De'Ath,87045802811,8,PB,SP,False
+406,584,Broddie_D'eye,9892273753,5,PB,"BA, SE",False
+407,584,Broddie_D'eye,9892273753,5,PB,"BA, SE",False
+408,474,Spence_Aiskovitch,87388455558,5,PB,"BA, SE",False
+409,32,Artie_Yeates,12152364503,5,PB,"BA, SE",False
+410,227,Roman_Bockman,15511438790,7,PB,"ES, RJ",False
+411,886,Oliviero_Grocock,82595700766,7,PB,"ES, RJ",False
+412,501,Ilene_Frawley,97774275908,9,PB,"PR, SC",False
+413,553,Wheeler_Lillegard,33641362970,9,PB,"PR, SC",False
+414,356,Ebenezer_Leman,32272685900,9,PB,"PR, SC",False
+415,389,Royal_Bullingham,54046001364,3,PB,"CE, MA, PI",False
+416,119,Alistair_MacLaig,78195782388,3,PB,"CE, MA, PI",False
+417,985,Laurianne_Asprey,61793887179,1,SP,"DF, GO, MS, MT, TO",False
+418,734,Erin_Hinckes,20059946180,1,SP,"DF, GO, MS, MT, TO",False
+419,3,Priscilla_Prickett,37166330112,1,PB,"DF, GO, MS, MT, TO",False
+420,593,Frederick_Kupka,53047328129,1,PB,"DF, GO, MS, MT, TO",False
+421,3,Priscilla_Prickett,37166330112,1,PB,"DF, GO, MS, MT, TO",False
+422,909,Vincent_Billin,25030001182,1,PB,"DF, GO, MS, MT, TO",False
+423,179,Evelyn_Kaminski,89635808143,1,PB,"DF, GO, MS, MT, TO",False
+424,10,Randene_Gilders,93376672156,1,PB,"DF, GO, MS, MT, TO",False
+425,35,Heida_Treker,68824927270,2,PB,"AC, AM, AP, PA, RO, RR",False
+426,782,Matthieu_Schleicher,80850708206,2,PB,"AC, AM, AP, PA, RO, RR",False
+427,336,Vanessa_Allsep,15201281265,2,PB,"AC, AM, AP, PA, RO, RR",False
+428,336,Vanessa_Allsep,15201281265,2,PB,"AC, AM, AP, PA, RO, RR",False
+429,678,Andee_Leney,35966344230,2,PB,"AC, AM, AP, PA, RO, RR",False
+430,248,Phillida_Steet,50169787605,6,PE,MG,False
+431,541,Leigh_Boodle,2700744063,6,PE,MG,False
+432,745,Flore_Beininck,95912175600,6,PE,MG,False
+433,906,Charlene_Simmgen,35549455609,6,PE,MG,False
+434,788,Leisha_Skelhorn,20068996004,0,PE,RS,False
+435,222,Kristien_Huddleston,67441420032,0,PE,RS,False
+436,199,Barbabas_Pendre,59210809009,0,PE,RS,False
+437,590,Ajay_Lacey,46335757087,0,PE,RS,False
+438,792,Carley_Emmitt,84691711007,0,PE,RS,False
+439,945,Anabella_Colgrave,54672369030,0,PE,RS,False
+440,969,Debora_Forcade,64888115842,8,PE,SP,False
+441,104,Henrie_Georgeou,94827007837,8,PE,SP,False
+442,415,Wright_Stelle,33916199889,8,PE,SP,False
+443,923,Jessa_Coalburn,51001629884,8,PE,SP,False
+444,374,Doy_Garnsey,43297801867,8,PE,SP,False
+445,475,Mead_Heers,28804798866,8,PE,SP,False
+446,617,Concettina_Garham,67250730851,8,PE,SP,False
+447,789,Kayle_Klampt,64293689800,8,PE,SP,False
+448,689,Rubetta_Miliffe,75576700511,5,PE,"BA, SE",False
+449,731,Marilyn_Dowglass,99197402508,5,PE,"BA, SE",False
+450,853,Laura_Granger,81331327547,5,PE,"BA, SE",False
+451,381,Bernelle_Wannan,38317239586,5,PE,"BA, SE",False
+452,795,Zollie_Tubby,56751952708,7,PE,"ES, RJ",False
+453,33,Lorant_Rigts,7252379370,7,PE,"ES, RJ",False
+454,379,Nathalia_Walework,82764515782,7,PE,"ES, RJ",False
+455,123,Milena_Vondruska,88115115770,7,PE,"ES, RJ",False
+456,296,Normand_Osbidston,14385214727,7,PE,"ES, RJ",False
+457,322,Maire_Faires,73871376760,7,PE,"ES, RJ",False
+458,925,Candice_Galilee,41430959983,9,PE,"PR, SC",False
+459,169,Guillermo_Cotgrave,87163957947,9,PE,"PR, SC",False
+460,522,Susan_Matuszinski,7374291191,9,PE,"PR, SC",False
+461,742,Siward_Gallard,60919098940,9,PE,"PR, SC",False
+462,860,Aubrey_Manwell,71453934928,9,PE,"PR, SC",False
+463,521,Monroe_Merrall,25046118971,9,PE,"PR, SC",False
+464,185,Dukey_Esley,71853068926,9,PE,"PR, SC",False
+465,739,Hendrika_Meers,24837470947,9,PE,"PR, SC",False
+466,790,Pattin_Bolderoe,86697608358,3,PE,"CE, MA, PI",False
+467,504,Andeee_Rubra,84573418393,3,PE,"CE, MA, PI",False
+468,885,Dino_Darlow,75183643369,3,PE,"CE, MA, PI",False
+469,469,Candace_Charter,8723278331,3,PE,"CE, MA, PI",False
+470,441,Floyd_Conant,84132247139,1,SP,"DF, GO, MS, MT, TO",False
+471,634,Cullen_Hatrey,10878912134,1,PE,"DF, GO, MS, MT, TO",False
+472,836,Ronny_Hanbridge,18795121145,1,PE,"DF, GO, MS, MT, TO",False
+473,308,Bartlett_Tison,39715421237,2,PE,"AC, AM, AP, PA, RO, RR",False
+474,265,Celestia_Barns,50483797219,2,PE,"AC, AM, AP, PA, RO, RR",False
+475,545,Mabel_Walewski,35604064203,2,PE,"AC, AM, AP, PA, RO, RR",False
+476,446,Caria_Grasner,16997674240,2,PE,"AC, AM, AP, PA, RO, RR",False
+477,912,Greggory_Rogge,17135929241,2,PE,"AC, AM, AP, PA, RO, RR",False
+478,421,Shelia_Waleworke,69959766659,6,PI,MG,False
+479,4,Leroi_Spinello,86876744655,6,PI,MG,False
+480,278,Hewitt_Pethick,2383890901,0,PI,RS,False
+481,712,Ephrem_Reinert,65754477082,0,PI,RS,False
+482,81,Jacobo_Henryson,85163453513,5,PI,"BA, SE",False
+483,122,Clary_Pealing,76395162934,9,PI,"PR, SC",False
+484,832,Amble_Warrender,28377639939,9,PI,"PR, SC",False
+485,944,Gale_Buttel,11171607180,1,SP,"DF, GO, MS, MT, TO",False
+486,221,Galvin_Shmyr,80837723132,1,SP,"DF, GO, MS, MT, TO",False
+487,473,Aidan_Enderlein,61169552153,1,SP,"DF, GO, MS, MT, TO",False
+488,387,Mirelle_Ife,68848335136,1,SP,"DF, GO, MS, MT, TO",False
+489,427,Jyoti_Sanja,57692053421,4,PI,"AL, PB, PE, RN",False
+490,673,Alleen_Kusick,29205371130,1,PI,"DF, GO, MS, MT, TO",False
+491,849,Claudian_Rowe,31989885276,2,PI,"AC, AM, AP, PA, RO, RR",False
+492,964,Kinny_Kelwaybamber,65628954217,2,PI,"AC, AM, AP, PA, RO, RR",False
+493,654,Lyman_Samways,1633043860,6,PR,MG,False
+494,54,Nicolas_Carrabot,11029745609,6,PR,MG,False
+495,155,Dion_Allaker,4927665763,6,PR,MG,False
+496,120,Currey_McDade,19776440665,6,PR,MG,False
+497,182,Jenifer_Gianelli,48686747655,6,PR,MG,False
+498,735,Kandy_McLaughlin,58567681677,6,PR,MG,False
+499,77,Catlee_Richfield,76060216609,6,PR,MG,False
+500,205,Ric_Tiley,45883535607,6,PR,MG,False
+501,206,Pate_Stivey,73258442045,0,PR,RS,False
+502,396,Gibb_Prestidge,4270577606,0,PR,RS,False
+503,242,Marty_Jandak,78874577001,0,PR,RS,False
+504,22,Gav_Kacheller,44438847001,0,PR,RS,False
+505,485,Elberta_Monkton,91483558010,0,PR,RS,False
+506,147,Timmy_Waymont,26248379068,0,PR,RS,False
+507,548,Adeline_Jopson,30258056096,0,PR,RS,False
+508,500,Upton_Scotson,80541138030,0,PR,RS,False
+509,921,Morton_Flack,16132617051,0,PR,RS,False
+510,846,Dacey_Leddie,11073431002,0,PR,RS,False
+511,529,Ambrosio_Godsil,72265711020,0,PR,RS,False
+512,917,Lydon_Gilhooley,111821800,0,PR,RS,False
+513,990,Hallsy_Ruddiforth,92744003069,0,PR,RS,False
+514,345,Giustino_Westnedge,9010879801,0,PR,RS,False
+515,15,Hobart_Musto,8641408789,8,PR,SP,False
+516,639,Deni_Sole,76302519802,8,PR,SP,False
+517,139,Linell_Stonall,77512351879,8,PR,SP,False
+518,783,Stephine_Narrie,93866036833,8,PR,SP,False
+519,207,Kurtis_Goring,99573792834,8,PR,SP,False
+520,905,Margie_Phythien,80510563880,8,PR,SP,False
+521,486,Parry_Isworth,65720241566,5,PR,"BA, SE",False
+522,801,Augustus_Jacobovitch,74839218544,5,PR,"BA, SE",False
+523,303,Alford_Firsby,62131861583,5,PR,"BA, SE",False
+524,344,Cassie_Easman,79806553543,5,PR,"BA, SE",False
+525,690,Cleve_Bason,58554010736,7,PR,"ES, RJ",False
+526,728,Torie_Painten,41409397700,7,PR,"ES, RJ",False
+527,306,Haleigh_Abrams,90201476762,7,PR,"ES, RJ",False
+528,382,Aristotle_Monget,67223847131,1,SP,"DF, GO, MS, MT, TO",False
+529,559,Cass_Bunston,14752108178,1,SP,"DF, GO, MS, MT, TO",False
+530,716,Kym_Wrixon,31610928130,1,SP,"DF, GO, MS, MT, TO",False
+531,997,Boote_Downse,34834927121,1,SP,"DF, GO, MS, MT, TO",False
+532,13,Clayborne_Charteris,46878512158,1,SP,"DF, GO, MS, MT, TO",False
+533,219,Gasper_Grabbam,16799810130,1,SP,"DF, GO, MS, MT, TO",False
+534,663,Averill_Larsen,95265239383,3,PR,"CE, MA, PI",False
+535,835,Celene_Denmead,74921579326,3,PR,"CE, MA, PI",False
+536,763,Olvan_Perche,78367657330,3,PR,"CE, MA, PI",False
+537,470,Herman_Jouen,23284939393,3,PR,"CE, MA, PI",False
+538,360,Nollie_Bessett,2089121939,3,PR,"CE, MA, PI",False
+539,935,Editha_Lovewell,65062436354,3,PR,"CE, MA, PI",False
+540,299,Westleigh_Rickard,69515310300,3,PR,"CE, MA, PI",False
+541,977,Consalve_Drinan,5034749831,3,PR,"CE, MA, PI",False
+542,366,Cherice_Roggers,22731486317,3,PR,"CE, MA, PI",False
+543,196,Toni_Haddington,57878785317,3,PR,"CE, MA, PI",False
+544,895,Claire_Godman,2794795147,4,PR,"AL, PB, PE, RN",False
+545,915,Ignace_Sirmond,34388460478,4,PR,"AL, PB, PE, RN",False
+546,986,Susanna_Deal,93574402406,4,PR,"AL, PB, PE, RN",False
+547,407,Wilhelm_Brauner,70545619459,4,PR,"AL, PB, PE, RN",False
+548,88,Gib_Robertsen,68183752438,4,PR,"AL, PB, PE, RN",False
+549,267,Dalston_Burniston,92930677490,4,PR,"AL, PB, PE, RN",False
+550,929,Rollins_Newcomen,25172295119,1,PR,"DF, GO, MS, MT, TO",False
+551,632,Aviva_McCalum,39801756187,1,PR,"DF, GO, MS, MT, TO",False
+552,362,Bidget_Jouen,15374579185,1,PR,"DF, GO, MS, MT, TO",False
+553,667,Morry_Kenway,65113110159,1,PR,"DF, GO, MS, MT, TO",False
+554,772,Ted_Oxherd,48735579170,1,PR,"DF, GO, MS, MT, TO",False
+555,563,Tate_Bernat,67834891162,1,PR,"DF, GO, MS, MT, TO",False
+556,320,Karyn_Deeman,77713788204,2,PR,"AC, AM, AP, PA, RO, RR",False
+557,538,Trudi_Gypps,4211472020,2,PR,"AC, AM, AP, PA, RO, RR",False
+558,181,Eadmund_Nadin,3928626620,2,PR,"AC, AM, AP, PA, RO, RR",False
+559,709,Budd_Stow,64589650282,2,PR,"AC, AM, AP, PA, RO, RR",False
+560,165,Marlie_Maffione,12866607260,2,PR,"AC, AM, AP, PA, RO, RR",False
+561,290,Chrotoem_Bluck,77258489240,2,PR,"AC, AM, AP, PA, RO, RR",False
+562,82,Morgan_Potts,52525616219,2,PR,"AC, AM, AP, PA, RO, RR",False
+563,660,Timoteo_Savile,19054177640,6,RJ,MG,False
+564,490,Lila_Hiscoe,68126274611,6,RJ,MG,False
+565,872,Gayle_Fardoe,83981576667,6,RJ,MG,False
+566,855,Torrin_Sunter,7881198508,0,RJ,RS,False
+567,968,Hirsch_Kilrow,66349996003,0,RJ,RS,False
+568,93,Gabriela_Bernaciak,59174481088,0,RJ,RS,False
+569,683,Tuckie_MacAnellye,40086768050,0,RJ,RS,False
+570,994,Bobina_Ruusa,3507018900,0,RJ,RS,False
+571,487,Bradley_Viccary,4981657102,0,RJ,RS,False
+572,586,Justino_Uglow,35996209039,0,RJ,RS,False
+573,183,Malanie_Jorgensen,47282212880,8,RJ,SP,False
+574,880,Gabby_Dymick,8708471983,8,RJ,SP,False
+575,726,Graig_Buckland,76706746525,5,RJ,"BA, SE",False
+576,314,Cary_Neely,58456992585,5,RJ,"BA, SE",False
+577,648,Mareah_Salliss,36620729550,5,RJ,"BA, SE",False
+578,233,Veronika_Skae,34046423412,4,SP,"AL, PB, PE, RN",False
+579,970,Sly_Emons,34010724471,4,SP,"AL, PB, PE, RN",False
+580,300,Maria_Webermann,28436373413,4,SP,"AL, PB, PE, RN",False
+581,105,Renault_Kingcott,4786830143,4,SP,"AL, PB, PE, RN",False
+582,8,Avrom_Larn,44104383449,4,SP,"AL, PB, PE, RN",False
+583,720,Skell_Keston,32416736930,9,RJ,"PR, SC",False
+584,12,Dalenna_Willan,90028209923,9,RJ,"PR, SC",False
+585,18,Pavia_Towsie,95394188360,3,RJ,"CE, MA, PI",False
+586,556,Vinson_McCaughey,5089610339,3,RJ,"CE, MA, PI",False
+587,335,Neely_Bartelet,12501422376,3,RJ,"CE, MA, PI",False
+588,695,Emelen_Skeete,65329093350,3,RJ,"CE, MA, PI",False
+589,492,Hortensia_Chevis,79449069387,3,RJ,"CE, MA, PI",False
+590,762,Leeland_Mapledorum,22066366382,3,RJ,"CE, MA, PI",False
+591,371,Alleen_Goodbairn,45395689303,3,RJ,"CE, MA, PI",False
+592,543,Shelli_Vize,16093511421,4,RJ,"AL, PB, PE, RN",False
+593,295,Orbadiah_Courtin,195825284,4,RJ,"AL, PB, PE, RN",False
+594,803,Calida_Edridge,17967749448,4,RJ,"AL, PB, PE, RN",False
+595,933,Ursula_Heinert,93239600471,4,RJ,"AL, PB, PE, RN",False
+596,9,Hilary_Roper,25124025174,1,RJ,"DF, GO, MS, MT, TO",False
+597,394,Nessie_Tomaskov,42684452180,1,RJ,"DF, GO, MS, MT, TO",False
+598,646,Adlai_Matevosian,74300165297,2,RJ,"AC, AM, AP, PA, RO, RR",False
+599,340,Ibby_Raitie,75016101264,2,RJ,"AC, AM, AP, PA, RO, RR",False
+600,820,Lizzie_Pittendreigh,47309376609,6,RN,MG,False
+601,274,Sheilakathryn_Ostick,9670878560,6,RN,MG,False
+602,754,Jessie_Knoller,90024618608,6,RN,MG,False
+603,920,Violante_Hallybone,34748586028,0,RN,RS,False
+604,115,Breena_Sherborne,83349537049,0,RN,RS,False
+605,564,Nessa_Lambole,55931211845,8,RN,SP,False
+606,350,Charissa_Sleit,7057125674,7,RN,"ES, RJ",False
+607,748,Wallace_McCarron,97875031915,9,RN,"PR, SC",False
+608,283,Malina_Camoys,86175421957,9,RN,"PR, SC",False
+609,53,Doll_Clyma,13013098422,4,SP,"AL, PB, PE, RN",False
+610,24,Zorina_Devanny,1544518510,1,RN,"DF, GO, MS, MT, TO",False
+611,48,Merv_Tull,43064795104,1,RN,"DF, GO, MS, MT, TO",False
+612,711,Hercule_Sagrott,47211263105,1,RN,"DF, GO, MS, MT, TO",False
+613,200,Angy_Kingsnoad,17782029260,2,RN,"AC, AM, AP, PA, RO, RR",False
+614,289,Armando_Harrinson,55901007557,5,RR,"BA, SE",False
+615,850,Reinhard_Marson,84529078698,6,RS,MG,False
+616,463,Loydie_Wille,95577435650,6,RS,MG,False
+617,277,Herc_Ineson,58272795604,6,RS,MG,False
+618,42,Filippo_Spurrett,60800141490,4,SP,"AL, PB, PE, RN",False
+619,684,August_Wilgar,92589733488,4,SP,"AL, PB, PE, RN",False
+620,891,Danya_Lartice,95595106492,4,SP,"AL, PB, PE, RN",False
+621,914,Gareth_Ivankovic,817090304,4,SP,"AL, PB, PE, RN",False
+622,594,Karla_Badsworth,63183903407,4,SP,"AL, PB, PE, RN",False
+623,11,Monica_Fraczak,86694408498,4,SP,"AL, PB, PE, RN",False
+624,64,Yance_Vause,25341859421,4,SP,"AL, PB, PE, RN",False
+625,188,Ailis_Poli,66050346437,4,SP,"AL, PB, PE, RN",False
+626,464,Ronald_Baldetti,2391698240,4,SP,"AL, PB, PE, RN",False
+627,467,Sutherlan_Sandford,20375299882,8,RS,SP,False
+628,830,Archibald_Hember,72071854802,8,RS,SP,False
+629,491,Huntington_Parchment,2003830782,8,RS,SP,False
+630,857,Hedwig_Thurman,47233902860,8,RS,SP,False
+631,714,Stefan_Antrobus,87965381800,8,RS,SP,False
+632,301,Caryl_Perkis,36026719849,8,RS,SP,False
+633,780,Randie_Ewen,36763363800,8,RS,SP,False
+634,828,Maighdiln_O' Culligan,1634172884,8,RS,SP,False
+635,108,Dimitry_Burditt,97553914525,5,RS,"BA, SE",False
+636,992,Arman_Simmen,98979187521,5,RS,"BA, SE",False
+637,167,Morten_Readings,80179544500,5,RS,"BA, SE",False
+638,383,Jocelin_McGuinley,35659779573,5,RS,"BA, SE",False
+639,171,Monica_Sirmon,20953481506,5,RS,"BA, SE",False
+640,333,Alessandro_Bonafant,43617168540,5,RS,"BA, SE",False
+641,685,Ingram_Greve,55382580502,5,RS,"BA, SE",False
+642,180,Vaughn_Leele,28344044707,7,RS,"ES, RJ",False
+643,698,Maris_Gribbin,27252673740,7,RS,"ES, RJ",False
+644,702,Dianemarie_Ridsdell,62616363704,7,RS,"ES, RJ",False
+645,29,Andres_Harly,43861165759,7,RS,"ES, RJ",False
+646,941,Kala_Babbidge,94075215750,7,RS,"ES, RJ",False
+647,235,Juan_Guthrum,86601995703,7,RS,"ES, RJ",False
+648,796,Sebastian_Wadham,26784977980,9,RS,"PR, SC",False
+649,959,Kimmie_Scamwell,81586879979,9,RS,"PR, SC",False
+650,960,Carlyn_Balogh,54973903906,9,RS,"PR, SC",False
+651,359,Matti_Boone,18414153917,9,RS,"PR, SC",False
+652,271,Courtnay_Phillippo,98042993994,9,RS,"PR, SC",False
+653,489,Abbot_Keune,10496023900,9,RS,"PR, SC",False
+654,785,Niles_Haugeh,91212275942,9,RS,"PR, SC",False
+655,328,Dulcie_Binks,17722452914,9,RS,"PR, SC",False
+656,210,Robby_Jime,12805703936,9,RS,"PR, SC",False
+657,844,Kayle_Rustman,29025823904,9,RS,"PR, SC",False
+658,797,Ignace_O'Dreain,44120188906,9,RS,"PR, SC",False
+659,791,Neils_Stennet,72668167345,3,RS,"CE, MA, PI",False
+660,96,Iris_Olivera,12803063352,3,RS,"CE, MA, PI",False
+661,864,Jaquenetta_Huskisson,36107808353,3,RS,"CE, MA, PI",False
+662,936,Gib_Hexum,51803945389,3,RS,"CE, MA, PI",False
+663,697,Ari_Annesley,78710995315,3,RS,"CE, MA, PI",False
+664,764,Tome_Carrabott,63541115378,3,RS,"CE, MA, PI",False
+665,87,Janice_Ollington,82252047356,3,RS,"CE, MA, PI",False
+666,623,Gilberte_Plank,79294726398,3,RS,"CE, MA, PI",False
+667,957,Ruddy_Devey,97693199373,3,RS,"CE, MA, PI",False
+668,217,Ellis_Lippini,30770105343,3,RS,"CE, MA, PI",False
+669,348,Nikolas_Kyteley,15692056399,3,RS,"CE, MA, PI",False
+670,375,Daryl_Ondrus,45319117337,3,RS,"CE, MA, PI",False
+671,539,Marrilee_Grono,69013887309,3,RS,"CE, MA, PI",False
+672,943,Lin_Brixey,9228048930,3,RS,"CE, MA, PI",False
+673,403,Iormina_Dunsford,39030561386,3,RS,"CE, MA, PI",False
+674,749,Deck_Beggin,61465612408,4,RS,"AL, PB, PE, RN",False
+675,458,Denver_Pleager,80702052450,4,RS,"AL, PB, PE, RN",False
+676,897,Redford_Dearsley,8099310446,4,RS,"AL, PB, PE, RN",False
+677,70,Ulrica_Pedracci,70750497475,4,RS,"AL, PB, PE, RN",False
+678,978,Harrison_Falco,25913720474,4,RS,"AL, PB, PE, RN",False
+679,897,Redford_Dearsley,8099310446,4,RS,"AL, PB, PE, RN",False
+680,27,Georgianne_Halewood,90286819490,4,RS,"AL, PB, PE, RN",False
+681,675,Reagen_Walkling,74844979167,1,RS,"DF, GO, MS, MT, TO",False
+682,294,Conni_Attow,73225104108,1,RS,"DF, GO, MS, MT, TO",False
+683,193,Nessa_Antognoni,97473793179,1,RS,"DF, GO, MS, MT, TO",False
+684,451,Griffy_Fancutt,74794206178,1,RS,"DF, GO, MS, MT, TO",False
+685,329,Gasparo_Haacker,32441884190,1,RS,"DF, GO, MS, MT, TO",False
+686,168,Hebert_Paolinelli,60466460147,1,RS,"DF, GO, MS, MT, TO",False
+687,743,Dene_Carson,19129600103,1,RS,"DF, GO, MS, MT, TO",False
+688,311,Vivien_Cardenosa,29433013107,1,RS,"DF, GO, MS, MT, TO",False
+689,719,Windy_Obern,27617590105,1,RS,"DF, GO, MS, MT, TO",False
+690,847,Ludovika_Duthie,52280508257,2,RS,"AC, AM, AP, PA, RO, RR",False
+691,530,Elise_Whyborne,94689599297,2,RS,"AC, AM, AP, PA, RO, RR",False
+692,477,Artur_Luetchford,21427526249,2,RS,"AC, AM, AP, PA, RO, RR",False
+693,126,Frances_Pautot,48369777201,2,RS,"AC, AM, AP, PA, RO, RR",False
+694,847,Ludovika_Duthie,52280508257,2,RS,"AC, AM, AP, PA, RO, RR",False
+695,324,Lemar_Faill,77131601241,2,RS,"AC, AM, AP, PA, RO, RR",False
+696,276,Corri_Wittke,32084735246,2,RS,"AC, AM, AP, PA, RO, RR",False
+697,907,Gavra_Sink,25380926207,2,RS,"AC, AM, AP, PA, RO, RR",False
+698,1,Kellen_Cowherd,91362597210,2,RS,"AC, AM, AP, PA, RO, RR",False
+699,121,Pennie_Graeber,83727681292,2,RS,"AC, AM, AP, PA, RO, RR",False
+700,561,Arvie_Lomas,23745779614,6,SC,MG,False
+701,236,Royall_Mullen,26675964631,6,SC,MG,False
+702,62,Ermanno_Golson,50746285639,6,SC,MG,False
+703,756,Staci_Snowling,87051578626,6,SC,MG,False
+704,60,Den_Gason,24636218698,6,SC,MG,False
+705,445,Mendel_Maffulli,56725630669,6,SC,MG,False
+706,62,Ermanno_Golson,50746285639,6,SC,MG,False
+707,249,Nigel_Bradforth,7413752069,6,SC,MG,False
+708,841,Charil_Joost,60508269601,6,SC,MG,False
+709,656,Kakalina_Pollicott,83798648085,0,SC,RS,False
+710,640,Amalia_Hartus,31327706040,0,SC,RS,False
+711,813,Gaelan_Kleewein,60040981088,0,SC,RS,False
+712,239,Daile_Le Page,17349398859,8,SC,SP,False
+713,499,Celinka_Macias,55389030877,8,SC,SP,False
+714,118,Stace_Izakson,24550394803,8,SC,SP,False
+715,882,Jorie_Jewkes,90606002820,8,SC,SP,False
+716,896,Jacques_Klimke,37576745886,8,SC,SP,False
+717,377,Shanie_Forsdyke,30364468505,5,SC,"BA, SE",False
+718,159,Joann_Derrick,12471259553,5,SC,"BA, SE",False
+719,234,Haleigh_Richly,69454207520,5,SC,"BA, SE",False
+720,730,Tootsie_Phil,76324364569,5,SC,"BA, SE",False
+721,525,Ethelda_Calf,86185539721,7,SC,"ES, RJ",False
+722,316,Antonie_Wrankmore,73089747740,7,SC,"ES, RJ",False
+723,903,Scotti_Bras,96219323785,7,SC,"ES, RJ",False
+724,186,Legra_Le Pruvost,76304003730,7,SC,"ES, RJ",False
+725,759,Alameda_Bloyes,88662715788,7,SC,"ES, RJ",False
+726,989,Peterus_Winear,97899100704,7,SC,"ES, RJ",False
+727,824,Florencia_Weatherup,15178222709,7,SC,"ES, RJ",False
+728,57,Joe_Hancock,39573087472,4,SP,"AL, PB, PE, RN",False
+729,233,Veronika_Skae,34046423412,4,SP,"AL, PB, PE, RN",False
+730,209,Yvor_Epdell,15737942449,4,SP,"AL, PB, PE, RN",False
+731,428,Giacinta_Woan,60126733457,4,SP,"AL, PB, PE, RN",False
+732,717,Emlynn_Instone,36733121387,3,SP,"CE, MA, PI",False
+733,339,Arlana_Belford,33249579319,3,SP,"CE, MA, PI",False
+734,367,Godard_Gayforth,75303938395,3,SP,"CE, MA, PI",False
+735,194,Siouxie_Pullar,75159767304,3,SC,"CE, MA, PI",False
+736,409,Lizzie_Donalson,50515026360,3,SC,"CE, MA, PI",False
+737,834,Jessika_Simioli,37991890333,3,SC,"CE, MA, PI",False
+738,101,Lea_Gillings,91722349387,3,SC,"CE, MA, PI",False
+739,313,Patton_Lartice,60585344370,3,SC,"CE, MA, PI",False
+740,343,Mendel_Paulino,91810359341,3,SC,"CE, MA, PI",False
+741,56,Keeley_Khristyukhin,57366687421,4,SC,"AL, PB, PE, RN",False
+742,253,Salvidor_Lux,57728972413,4,SC,"AL, PB, PE, RN",False
+743,452,Susana_Hasling,36630467450,4,SC,"AL, PB, PE, RN",False
+744,706,Jarid_Prout,60303935456,4,SC,"AL, PB, PE, RN",False
+745,484,Fairfax_Splain,21754795447,4,SC,"AL, PB, PE, RN",False
+746,211,Garrott_Jepps,20314055193,1,SC,"DF, GO, MS, MT, TO",False
+747,954,Aaron_Gerleit,37856421134,1,SC,"DF, GO, MS, MT, TO",False
+748,419,Mortie_Lots,24487165105,1,SC,"DF, GO, MS, MT, TO",False
+749,911,Lisa_Neylan,68620086170,1,SC,"DF, GO, MS, MT, TO",False
+750,419,Mortie_Lots,24487165105,1,SC,"DF, GO, MS, MT, TO",False
+751,879,Brian_Reilinger,95901825187,1,SC,"DF, GO, MS, MT, TO",False
+752,439,Anne-corinne_Twizell,21172959161,1,SC,"DF, GO, MS, MT, TO",False
+753,680,Darryl_Dugall,64097298127,1,SC,"DF, GO, MS, MT, TO",False
+754,404,Jermaine_Furlong,43238467115,1,SC,"DF, GO, MS, MT, TO",False
+755,787,Zachery_McIlwraith,48151283246,2,SC,"AC, AM, AP, PA, RO, RR",False
+756,725,Amalee_Warbeys,81595388206,2,SC,"AC, AM, AP, PA, RO, RR",False
+757,397,Clarance_Dudgeon,5516853524,2,SC,"AC, AM, AP, PA, RO, RR",False
+758,778,Craggie_Peschmann,95496440220,2,SC,"AC, AM, AP, PA, RO, RR",False
+759,773,Shannan_Jamblin,35029152610,6,SE,MG,False
+760,43,Stephannie_Girard,88376840614,6,SE,MG,False
+761,224,Edi_Groucock,46497545000,0,SE,RS,False
+762,633,Elane_Heathcoat,1345261209,0,SE,RS,False
+763,364,Orland_Sertin,95667961024,0,SE,RS,False
+764,904,Ariana_Palke,7765247808,0,SE,RS,False
+765,151,Dewain_Saffle,28591461800,8,SE,SP,False
+766,776,Troy_Adame,43245967861,8,SE,SP,False
+767,692,Lissa_Roberti,61889043826,8,SE,SP,False
+768,710,Sharyl_Kent,44424249859,8,SE,SP,False
+769,402,Nealon_Dieton,80451514718,7,SE,"ES, RJ",False
+770,483,Irita_Ramel,95707454799,7,SE,"ES, RJ",False
+771,946,Kelby_Toulch,98845408701,7,SE,"ES, RJ",False
+772,746,Mariska_Sayle,12544022337,3,SE,"CE, MA, PI",False
+773,687,Nefen_Haggis,91105604322,3,SE,"CE, MA, PI",False
+774,526,Spence_Bennett,99034134326,3,SE,"CE, MA, PI",False
+775,28,Petey_Snoxall,52722877465,4,SE,"AL, PB, PE, RN",False
+776,202,Doralynne_Deathridge,48825263104,1,SE,"DF, GO, MS, MT, TO",False
+777,117,Hersch_Zellick,31939123100,1,SE,"DF, GO, MS, MT, TO",False
+778,869,Anastasia_Leveritt,11165493608,6,SP,MG,False
+779,315,Eliot_Todari,69043768642,6,SP,MG,False
+780,591,Jacquie_Livingston,55549103605,6,SP,MG,False
+781,297,Abba_Puttock,90114308675,6,SP,MG,False
+782,496,Anson_Finch,90663655609,6,SP,MG,False
+783,674,Phaedra_Daintith,58330596664,6,SP,MG,False
+784,982,Viviana_Climance,40074671618,6,SP,MG,False
+785,372,Godfree_Beminster,48934367679,6,SP,MG,False
+786,1000,Konstantine_Perell,86234034608,6,SP,MG,False
+787,279,Fern_Doulton,73088522612,6,SP,MG,False
+788,19,Adele_Dunridge,71754096646,6,SP,MG,False
+789,255,Lloyd_Zottoli,67734330614,6,SP,MG,False
+790,380,Brand_Slogrove,90557488621,6,SP,MG,False
+791,376,Gerry_Hookes,94640842600,6,SP,MG,False
+792,715,Meridel_Duddell,3997833265,6,SP,MG,False
+793,109,Kettie_Reavell,20650444620,6,SP,MG,False
+794,942,Isador_Bittlestone,44061827642,6,SP,MG,False
+795,259,Darsey_Wolstencroft,63034737688,6,SP,MG,False
+796,611,Berni_Inkpin,89726514606,6,SP,MG,False
+797,150,Tabor_Donnellan,42792808608,6,SP,MG,False
+798,240,Cissiee_Ecclestone,73857540664,6,SP,MG,False
+799,579,Mellie_Winslet,36603378620,6,SP,MG,False
+800,124,Dmitri_Bilsford,55950706684,6,SP,MG,False
+801,655,Aurie_Francomb,74285484625,6,SP,MG,False
+802,516,Giorgio_Iacovozzo,63107211605,6,SP,MG,False
+803,551,Niccolo_Shyram,92841899691,6,SP,MG,False
+804,963,Emory_Searles,90629903638,6,SP,MG,False
+805,781,Christan_Gatehouse,6321391700,0,SP,RS,False
+806,991,Colline_Greeson,47754771020,0,SP,RS,False
+807,172,Callean_Illesley,97236806021,0,SP,RS,False
+808,453,Rea_Stilgoe,17618570027,0,SP,RS,False
+809,800,Janeva_MacIntosh,54550162023,0,SP,RS,False
+810,700,Evangelin_Langston,88000200031,0,SP,RS,False
+811,243,Erasmus_Bineham,99025633099,0,SP,RS,False
+812,688,Martynne_Bodechon,36616841081,0,SP,RS,False
+813,393,Dalton_Finlater,29121985006,0,SP,RS,False
+814,901,Farrell_Murdoch,75067376040,0,SP,RS,False
+815,347,Heidi_Galpen,31921924020,0,SP,RS,False
+816,890,Sandi_Jonuzi,26158127000,0,SP,RS,False
+817,838,Filip_Burgen,5122478708,0,SP,RS,False
+818,565,Nathanial_Massen,79967559063,0,SP,RS,False
+819,581,Ana_Danilov,49263817022,0,SP,RS,False
+820,938,Myriam_Gauler,14623919072,0,SP,RS,False
+821,740,Eydie_Ornelas,60347163068,0,SP,RS,False
+822,25,Flin_Friedenbach,70418365334,3,SP,"CE, MA, PI",False
+823,721,Roobbie_Lace,23967921301,3,SP,"CE, MA, PI",False
+824,25,Flin_Friedenbach,70418365334,3,SP,"CE, MA, PI",False
+825,900,Judd_Bruhnke,9742263434,3,SP,"CE, MA, PI",False
+826,275,Zach_Tatlow,93434255389,3,SP,"CE, MA, PI",False
+827,766,Ilyse_Bowkley,75886707387,3,SP,"CE, MA, PI",False
+828,190,Glynda_Kunath,45167336333,3,SP,"CE, MA, PI",False
+829,972,Maximilian_Goulbourn,99162713302,3,SP,"CE, MA, PI",False
+830,79,Wat_Meddows,29788686354,3,SP,"CE, MA, PI",False
+831,59,Dorey_Antoszewski,97700708312,3,SP,"CE, MA, PI",False
+832,703,Jecho_Towersey,49990305358,3,SP,"CE, MA, PI",False
+833,637,Ax_Brinsford,47987107336,3,SP,"CE, MA, PI",False
+834,406,Mariya_Sallan,55343069398,3,SP,"CE, MA, PI",False
+835,596,Janifer_Doherty,72524378330,3,SP,"CE, MA, PI",False
+836,385,Maxy_Swainson,70523521502,5,SP,"BA, SE",False
+837,58,Lefty_Fancet,60361581572,5,SP,"BA, SE",False
+838,216,Elyse_Passfield,67081634540,5,SP,"BA, SE",False
+839,870,Sharla_Kasper,70967818540,5,SP,"BA, SE",False
+840,238,Eleen_Cassie,73122473500,5,SP,"BA, SE",False
+841,641,Devi_Conneely,12531153543,5,SP,"BA, SE",False
+842,624,Marvin_Fishley,9208491056,5,SP,"BA, SE",False
+843,822,Eamon_Nestle,27928789590,5,SP,"BA, SE",False
+844,291,Haily_Blamey,68161691584,5,SP,"BA, SE",False
+845,595,Kain_Binding,61459547527,5,SP,"BA, SE",False
+846,493,Asia_Frentz,37538106570,5,SP,"BA, SE",False
+847,577,Filberto_Charkham,29492124505,5,SP,"BA, SE",False
+848,142,Trude_Orris,13102506500,5,SP,"BA, SE",False
+849,178,Klara_Waddams,25655865580,5,SP,"BA, SE",False
+850,330,Mariette_Decker,28301470577,5,SP,"BA, SE",False
+851,258,Felice_Gillmore,55820103513,5,SP,"BA, SE",False
+852,395,Godfry_Romao,31868182576,5,SP,"BA, SE",False
+853,505,Bendick_Savins,11649238541,5,SP,"BA, SE",False
+854,974,Ronda_Perton,62847430768,7,SP,"ES, RJ",False
+855,558,Lloyd_Strattan,52978896779,7,SP,"ES, RJ",False
+856,665,Maxine_Blenkharn,5927245579,7,SP,"ES, RJ",False
+857,859,Talbot_Eldershaw,23284430792,7,SP,"ES, RJ",False
+858,649,Barbee_Labuschagne,95365551745,7,SP,"ES, RJ",False
+859,965,Marget_Faithorn,76154425759,7,SP,"ES, RJ",False
+860,456,Cissiee_Wilcocke,35327088766,7,SP,"ES, RJ",False
+861,99,Gunther_Butterworth,17462679760,7,SP,"ES, RJ",False
+862,995,Fiorenze_Rickesies,27947571724,7,SP,"ES, RJ",False
+863,649,Barbee_Labuschagne,95365551745,7,SP,"ES, RJ",False
+864,257,Pancho_Czyz,85014002706,7,SP,"ES, RJ",False
+865,527,Alikee_Dunbleton,59018517739,7,SP,"ES, RJ",False
+866,877,Bryce_Flacke,20088470717,7,SP,"ES, RJ",False
+867,208,Barrie_Scough,71677572760,7,SP,"ES, RJ",False
+868,466,Aldridge_Jacox,60396003737,7,SP,"ES, RJ",False
+869,672,Dita_Halsey,81551977788,7,SP,"ES, RJ",False
+870,127,Wenda_Jeaycock,1481420879,7,SP,"ES, RJ",False
+871,438,Matteo_Lauks,11322391769,7,SP,"ES, RJ",False
+872,138,Mort_Janata,69806365704,7,SP,"ES, RJ",False
+873,518,Gale_Dannel,55163612735,7,SP,"ES, RJ",False
+874,837,Francyne_Wortt,72378006713,7,SP,"ES, RJ",False
+875,812,Shena_Croote,47802531799,7,SP,"ES, RJ",False
+876,250,Jarret_Wessing,95665209996,9,SP,"PR, SC",False
+877,212,Lanette_Pengelly,46423227950,9,SP,"PR, SC",False
+878,873,Viviana_Stayt,62773509943,9,SP,"PR, SC",False
+879,686,Hillie_Mantz,49697374953,9,SP,"PR, SC",False
+880,747,Claudina_Faustin,8561384794,9,SP,"PR, SC",False
+881,777,Grantley_Yaldren,59146259988,9,SP,"PR, SC",False
+882,280,Briana_Peschka,19946263998,9,SP,"PR, SC",False
+883,913,Lyndsey_Ernshaw,98767122922,9,SP,"PR, SC",False
+884,875,Sarah_Rossoni,24566845915,9,SP,"PR, SC",False
+885,616,Ula_Marte,67843904905,9,SP,"PR, SC",False
+886,602,Kym_Brosio,17953741954,9,SP,"PR, SC",False
+887,455,Barby_Tures,50709318901,9,SP,"PR, SC",False
+888,50,Viviene_Auckland,560261969,9,SP,"PR, SC",False
+889,707,Christoph_MacGrath,49620456955,9,SP,"PR, SC",False
+890,106,Parke_Wooles,2567955097,9,SP,"PR, SC",False
+891,751,Sonya_Seakings,32959278984,9,SP,"PR, SC",False
+892,599,Tabbitha_Severn,62026957908,9,SP,"PR, SC",False
+893,677,Urbanus_Hyndley,73995056911,9,SP,"PR, SC",False
+894,605,Arnoldo_Ricold,93601039931,9,SP,"PR, SC",False
+895,601,Katie_Colt,44609676931,9,SP,"PR, SC",False
+896,983,Tatiania_Dommett,67679249970,9,SP,"PR, SC",False
+897,230,Sidoney_Tidball,28663321996,9,SP,"PR, SC",False
+898,273,Trevor_Yosevitz,50437385965,9,SP,"PR, SC",False
+899,228,Franky_Wickie,19578651996,9,SP,"PR, SC",False
+900,86,Wit_Elvins,78924037951,9,SP,"PR, SC",False
+901,129,Angelique_Maffini,22922434907,9,SP,"PR, SC",False
+902,106,Parke_Wooles,2567955097,9,SP,"PR, SC",False
+903,273,Trevor_Yosevitz,50437385965,9,SP,"PR, SC",False
+904,513,Hermione_Sidsaff,76018664917,9,SP,"PR, SC",False
+905,21,Jon_Vasichev,13000648976,9,SP,"PR, SC",False
+906,436,Gus_Chomicki,93945088992,9,SP,"PR, SC",False
+907,666,Melvyn_Highton,14541650908,9,SP,"PR, SC",False
+908,260,Cory_Howkins,55050694361,3,SP,"CE, MA, PI",False
+909,549,Kalil_Braine,34480574360,3,SP,"CE, MA, PI",False
+910,369,Abdul_Ridout,20422980340,3,SP,"CE, MA, PI",False
+911,635,Norman_Groucutt,60522149375,3,SP,"CE, MA, PI",False
+912,355,Jermayne_Goshawke,6045265637,3,SP,"CE, MA, PI",False
+913,696,Kasey_Cressey,34421483320,3,SP,"CE, MA, PI",False
+914,158,Wendie_Stapley,50822518309,3,SP,"CE, MA, PI",False
+915,818,Tyler_Gamell,5465023937,3,SP,"CE, MA, PI",False
+916,175,Lawrence_Cotes,47437346818,8,SP,SP,True
+917,622,Petey_Stinton,91862027820,8,SP,SP,True
+918,244,Madalena_Wathey,65009694808,8,SP,SP,True
+919,285,Rosalie_Quartly,42569434809,8,SP,SP,True
+920,810,Arlen_Caven,19728739893,8,SP,SP,True
+921,826,Christen_Gaiger,85548882864,8,SP,SP,True
+922,910,Hakeem_Riddle,84387600829,8,SP,SP,True
+923,831,Bentley_Pullan,55597256840,8,SP,SP,True
+924,825,Jen_Astling,27924199896,8,SP,SP,True
+925,884,Madlin_Tarbert,98541813835,8,SP,SP,True
+926,826,Christen_Gaiger,85548882864,8,SP,SP,True
+927,926,Noam_Carillo,8915691385,8,SP,SP,True
+928,309,Zacharia_Stollenbeck,78732478801,8,SP,SP,True
+929,718,Mikaela_Dennison,82946525805,8,SP,SP,True
+930,858,Trudy_MacCulloch,29767583955,9,SC,"PR, SC",True
+931,414,Prudi_Tondeur,88308042902,9,SC,"PR, SC",True
+932,220,Mirna_Swarbrick,48208488950,9,SC,"PR, SC",True
+933,769,Braden_Piscopiello,44465882904,9,SC,"PR, SC",True
+934,75,Tedi_Jewis,29715194907,9,SC,"PR, SC",True
+935,723,Marty_Rossborough,20791462978,9,SC,"PR, SC",True
+936,519,Milena_Iddiens,67019343902,9,SC,"PR, SC",True
+937,619,Ainsley_Llewelyn,84429771049,0,RS,RS,True
+938,413,Tiphany_Endricci,53296063064,0,RS,RS,True
+939,480,Haily_Georgiev,36217425068,0,RS,RS,True
+940,263,Ted_Showler,33181150029,0,RS,RS,True
+941,51,Archer_Moreno,90922940045,0,RS,RS,True
+942,410,Nita_Benettini,38538892045,0,RS,RS,True
+943,807,Harlie_Feely,2806102707,0,RS,RS,True
+944,51,Archer_Moreno,90922940045,0,RS,RS,True
+945,413,Tiphany_Endricci,53296063064,0,RS,RS,True
+946,416,Elwira_Tointon,52894088434,4,RN,"AL, PB, PE, RN",True
+947,755,Andres_Benzing,65549769735,7,RJ,"ES, RJ",True
+948,597,Denys_MacGuigan,50059209780,7,RJ,"ES, RJ",True
+949,840,Darcy_Seine,21831952742,7,RJ,"ES, RJ",True
+950,744,Marj_Eisig,37039266784,7,RJ,"ES, RJ",True
+951,547,Renault_Milksop,81649279701,7,RJ,"ES, RJ",True
+952,247,Teodora_Chivers,22836011939,9,PR,"PR, SC",True
+953,630,Shep_Coatts,8271231596,9,PR,"PR, SC",True
+954,31,Mahmoud_Wark,50753012901,9,PR,"PR, SC",True
+955,17,Calla_Carlesso,85429074934,9,PR,"PR, SC",True
+956,370,Gwyn_Filson,27382823938,9,PR,"PR, SC",True
+957,405,Richmound_D'Alesco,10316750948,9,PR,"PR, SC",True
+958,100,Catharina_Sitlington,84946408363,3,PI,"CE, MA, PI",True
+959,431,Torin_Kellock,6607292534,3,PI,"CE, MA, PI",True
+960,268,Abbott_MacGinley,96245351324,3,PI,"CE, MA, PI",True
+961,842,Myrvyn_O'Hengerty,49156738390,3,PI,"CE, MA, PI",True
+962,454,Nollie_Looks,81105122409,4,PE,"AL, PB, PE, RN",True
+963,862,Robers_Fassmann,82540339433,4,PB,"AL, PB, PE, RN",True
+964,85,Say_Causbey,46291539420,4,PB,"AL, PB, PE, RN",True
+965,798,Ame_Adan,54398115242,2,PA,"AC, AM, AP, PA, RO, RR",True
+966,567,Zelma_Moth,26822583106,1,MS,"DF, GO, MS, MT, TO",True
+967,536,Woodman_Murty,34860058631,6,MG,MG,True
+968,461,Aurora_Klimsch,84535605602,6,MG,MG,True
+969,999,Roderick_Alfonso,32285538685,6,MG,MG,True
+970,40,Pacorro_Kleis,61148357602,6,MG,MG,True
+971,827,Griffie_Wraggs,33823689606,6,MG,MG,True
+972,390,Lauritz_Ebanks,46221254639,6,MG,MG,True
+973,434,Bertina_Alvarez,48100969639,6,MG,MG,True
+974,919,Kathy_Arman,43458804676,6,MG,MG,True
+975,447,Frederick_Booker,63300729653,6,MG,MG,True
+976,26,Rhoda_Sandes,64019679606,6,MG,MG,True
+977,310,Inness_Hugenin,23368589679,6,MG,MG,True
+978,868,Alyss_De Beauchemp,18400273630,6,MG,MG,True
+979,771,Tobiah_Santorini,40660554607,6,MG,MG,True
+980,520,Vasili_Ellor,99841379376,3,MA,"CE, MA, PI",True
+981,669,Jess_Crebbin,15965554320,3,MA,"CE, MA, PI",True
+982,161,Carrie_Minard,38316426307,3,MA,"CE, MA, PI",True
+983,270,Vail_Cranham,38765055187,1,GO,"DF, GO, MS, MT, TO",True
+984,878,Kilian_Rodson,66036381182,1,GO,"DF, GO, MS, MT, TO",True
+985,34,Devora_Defraine,60582876184,1,GO,"DF, GO, MS, MT, TO",True
+986,546,Borden_Gatherell,48501886130,1,GO,"DF, GO, MS, MT, TO",True
+987,839,Vite_Senogles,75153285170,1,GO,"DF, GO, MS, MT, TO",True
+988,610,Eirena_Edgler,69420032710,7,ES,"ES, RJ",True
+989,733,Jaclin_Taggerty,55166296753,7,ES,"ES, RJ",True
+990,426,Margit_Gatling,94932158734,7,ES,"ES, RJ",True
+991,848,Amata_Lowder,65219811371,3,CE,"CE, MA, PI",True
+992,254,Oswell_Stanlake,1314557530,3,CE,"CE, MA, PI",True
+993,962,Rollo_Vernham,88308327583,5,BA,"BA, SE",True
+994,512,Tommie_Yerlett,54619969575,5,BA,"BA, SE",True
+995,143,Claudius_Martignoni,77378291560,5,BA,"BA, SE",True
+996,618,Tonia_Jannasch,6060494951,5,BA,"BA, SE",True
+997,112,Austin_Danilovic,23210724580,5,BA,"BA, SE",True
+998,479,Pinchas_Hanalan,11615649263,2,AM,"AC, AM, AP, PA, RO, RR",True
+999,625,Walsh_Garlette,79477514209,2,AM,"AC, AM, AP, PA, RO, RR",True
+1000,575,Ferd_Duffit,65123269207,2,AM,"AC, AM, AP, PA, RO, RR",True
+1001,932,Taylor_Kleinerman,58798576208,2,AM,"AC, AM, AP, PA, RO, RR",True

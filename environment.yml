@@ -1,0 +1,25 @@
+name: .env_requests-venv
+channels:
+  - conda-forge
+dependencies:
+  - python==3.9.6
+  - pandas==1.3.2
+  - numpy
+  - ipykernel
+  - matplotlib
+  - pip
+  - seaborn
+  - requests==2.26.0
+  - pycurl
+  - certifi
+  - reverse_geocoder
+  - cryptography
+  #- google-cloud-sdk
+  #- pandas-gbq
+  #- google-cloud-bigquery
+  #- google-cloud-storage
+  #- google-api-python-client
+  #- pyarrow==5.0.0
+  #- minikube
+  #- pyasn1-modules
+  #- google-auth==2.0.1
