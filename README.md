@@ -1,4 +1,17 @@
-# Loan_Status_ML_Model
+# Teste para engenheiro de dados 
+- Participante: César Noronha
+- data de entrega: 30/12/2022
+
+## Arquivos nesse repositório:
+- main.ipynb 
+    - Nesse arquivo estão as perguntas e os códigos com as respostas para todos as perguntas em formato de célula.
+- environment.yml
+    - Neste arquivo estão os as bibliotecas necessários para executar o arquivo main.ipynb. Você pode criar um ambiente virtual seguntos as instruções do setup ou instalar as bibliotecas individualmente através do pip. Note porém que só é possível se conectar ao BigQuery caso você não esteja utilizando um ambiente virtual, e sim o da própria máquina.
+- arquivos.csv
+    - Nestes arquivos estão os dataframes em formato csv gerados em algumas etapas do processamento. Esses arquivos foram feitos inicialmente para facilitar obter os dataframes no meio do projeto, mas deixei no arquivos para salvar tempo de processamento no teste. O arquivo que contem o dataframe final é o df_from_sql.csv
+- .gitignore
+    - Arquivo usado para excluir o service account do github. Para executar o código principal será necessário adicionar o service account a parta do arquivo main.ipynb
+
 
 ## Setup
 

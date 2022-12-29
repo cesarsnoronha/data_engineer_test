@@ -1,4 +1,4 @@
-name: .env_requests-venv
+name: .env_sql_python_google-venv
 channels:
   - conda-forge
 dependencies:
@@ -14,9 +14,9 @@ dependencies:
   - certifi
   - reverse_geocoder
   - cryptography
+  - google-cloud-bigquery
   #- google-cloud-sdk
   #- pandas-gbq
-  #- google-cloud-bigquery
   #- google-cloud-storage
   #- google-api-python-client
   #- pyarrow==5.0.0
