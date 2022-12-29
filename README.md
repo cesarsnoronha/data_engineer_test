@@ -1,5 +1,6 @@
 # Teste para engenheiro de dados 
 - Participante: César Noronha
+- Email: cesarsnoronha@gmail.com
 - data de entrega: 30/12/2022
 
 ## Arquivos nesse repositório:
@@ -16,41 +17,23 @@
 ## Setup
 
 - Como instalar as bibliotecas?
-    Rodar no terminal:
-    conda env create environment.yml 
-    conda activate environment.yml 
-
-    conda deactivate
-    conda env remove -n .env_requests-venv
-    
-    Caso aconteça algum erro:
-    conda env update environment.yml 
+    - Rodando da própria máquina:
+        instale as bibliotecas atraves do pip install no terminal
 
 
-set GOOGLE_APPLICATION_CREDENTIALS=Users/Cesar-mac/Desktop/aplicacao_be_growth/svc-data-engineer-test.json
+    - Ambiente virtual       * O BigQuery não funciona aqui
+        - Rodar no terminal:
+            conda env create environment.yml 
+            conda activate environment.yml 
 
-## Sobre o projeto
+        - Em caso de problemas:
+            conda deactivate
+            conda env remove -n .env_requests-venv
+            
+            Caso aconteça algum erro:
+            conda env update environment.yml 
 
-## Integrantes
+- Após instalacão das bilbiotecas colocar o service account na pasta do arquivo, e sen seguida rodar o comando:
+    set GOOGLE_APPLICATION_CREDENTIALS=Users/Cesar-mac/Desktop/aplicacao_be_growth/svc-data-engineer-test.json
 
-    César Augusto Noronha
-## Organização do projeto
-
-- Onde estão as bases de dados?
-    datasets/raw/train_u6...
-- Tem dados processados? Onde?
-    Os dados são processados na criação de cada gráfico, pois alguns dados precisam de formatos diferentes.
-- Onde estão os Notebooks com as Análises Exploratórias?
-    report.ipynb
-- Onde está o Notebook com as comparações entre modelos?
-    report.ipynb
-
-
-- Como baixar os dados?
-    Os dados estão no arquivo Projeto_analise_credito/main/datasets/raw/train_u6lujuX_CVtuZ9i.csv
-    e podem ser baixados com a função:
-    df = pd.read_csv('../datasets/raw/train_u6lujuX_CVtuZ9i.csv')
-
-- Onde armazenar a base de dados?
-    Em uma pasta na área de trabalho
 
