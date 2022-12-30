@@ -11,7 +11,7 @@
 - arquivos.csv
     - Nestes arquivos estão os dataframes em formato csv gerados em algumas etapas do processamento. Esses arquivos foram feitos inicialmente para facilitar obter os dataframes no meio do projeto, mas deixei no arquivos para salvar tempo de processamento no teste. O arquivo que contem o dataframe final é o df_from_sql.csv
 - .gitignore
-    - Arquivo usado para excluir o service account do github. Para executar o código principal será necessário adicionar o service account a parta do arquivo main.ipynb
+    - Arquivo usado para excluir o service account do github. Para executar o código principal será necessário adicionar o service account à pasta do arquivo main.ipynb
 
 
 ## Setup
