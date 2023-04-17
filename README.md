@@ -1,7 +1,6 @@
-# Teste para engenheiro de dados 
+# Prática engenheiro de dados
 - Participante: César Noronha
 - Email: cesarsnoronha@gmail.com
-- data de entrega: 30/12/2022
 
 ## Arquivos nesse repositório:
 - main.ipynb 
